@@ -1,0 +1,6 @@
+*.pyc
+*~
+__pycache__
+onlineshop
+db.sqlite3
+.DS_Store
